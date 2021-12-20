@@ -1,0 +1,20 @@
+{
+  "name": "49ja",
+  "version": "2.1.0",
+  "description": "An App that Automates our Investment in 49ja of Bet9ja ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emma Ephraim",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "http": "*",
+    "moment": "^2.29.1",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^10.1.0",
+    "shelljs": "^0.8.4",
+    "user-agents": "^1.0.714"
+  }
+}
